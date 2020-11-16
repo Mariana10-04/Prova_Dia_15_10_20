@@ -6,7 +6,7 @@ function Pagina1() {
     return (
         <>
         <div className="container">
-        <h1>Texto de Exemplo</h1>
+        <h1>Página 1</h1>
         </div>
 
         </>  
