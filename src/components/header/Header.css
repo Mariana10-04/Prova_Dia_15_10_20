@@ -3,7 +3,7 @@
 }
 
 .header{
-    background-color: #7ED957;
+    background-color: #f784f1;
     position: fixed;
     width: 100%;
     z-index: 999;
@@ -30,7 +30,7 @@
 }
 
 .header-item a{
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 1vw;
 }

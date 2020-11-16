@@ -11,7 +11,7 @@
 
 .container h1{
     display: flex;
-    color: black;
+    color: rgb(255, 0, 170);
     align-items: center;
 }
 
@@ -30,7 +30,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
-    font-size: 10vw;
-    text-shadow: 0.5vw 0.5vw #7ED957;
+    color: rgb(0, 0, 0);
+    font-size: 6vw;
+    text-shadow: 0vw 1vw 1vw #fd00fd;
 }

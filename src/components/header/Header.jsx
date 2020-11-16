@@ -18,16 +18,16 @@ export default function Header(){
                         <Link to='/' className='header-links'>Home</Link>
                     </li>
                     <li className='header-item'>
-                        <Link to='/Pagina1' className='header-links'>Página 1</Link>
+                        <Link to='/Pagina1' className='header-links'>Página-1</Link>
                     </li>
                     <li className='header-item'>
-                        <Link to='/Pagina2' className='header-links'>Página 2</Link>
+                        <Link to='/Pagina2' className='header-links'>Página-2</Link>
                     </li>
                     <li className='header-item'>
-                        <Link to='/Pagina3' className='header-links'>Página 3</Link>
+                        <Link to='/Pagina3' className='header-links'>Página-3</Link>
                     </li>
                     <li className='header-item'>
-                        <Link to='/Pagina4' className='header-links'>Página 4</Link>
+                        <Link to='/Pagina4' className='header-links'>Página-4</Link>
                     </li>
                 </ul>
             </div>

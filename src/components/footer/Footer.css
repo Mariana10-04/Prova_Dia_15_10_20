@@ -4,12 +4,12 @@
 .container-footer{
     display: flex;
     padding: 1vw 5vw;
-    background-color: #595959;
-    color: white;
+    background-color: #ffb4dd;
+    color: #000000;
     justify-content: space-between;
 }
 
 .container-footer img{
-    height: 2vw;
-    padding: 0 0.5vw;
+    height: 3vw;
+    padding: 0 1vw;
 }

@@ -7,7 +7,7 @@ export default function LandingPage(){
         <>
         <div className="background">
             <img src={Fundo}></img>
-            <h1>Hello World</h1>
+            <h1>Olá mundo!!!</h1>
         </div>
         </>
     );
